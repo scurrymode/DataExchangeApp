@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pets>
+	<pet>
+		<type>고양이</type>
+		<name>나비</name>
+		<age>4</age>
+		<gender>여</gender>
+	</pet>
+	<pet>
+		<type>개</type>
+		<name>뽀삐</name>
+		<age>3</age>
+		<gender>남</gender>
+	</pet>
+	<pet>
+		<type>앵무새</type>
+		<name>떠벌이</name>
+		<age>7</age>
+		<gender>남</gender>
+	</pet>
+	
+</pets>

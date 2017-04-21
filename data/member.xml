@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+	<member>
+		<name>김혜수</name>
+		<age>27</age>
+		<phone>010-8786-6323</phone>
+		<gender>여</gender>
+	</member>
+	<member>
+		<name>김태희</name>
+		<age>23</age>
+		<phone>010-8896-6323</phone>
+		<gender>여</gender>
+	</member>
+	<member>
+		<name>전지현</name>
+		<age>24</age>
+		<phone>010-4440-3775</phone>
+		<gender>여</gender>
+	</member>
+</members>

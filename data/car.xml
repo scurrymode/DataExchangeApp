@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car>
+		<brand>BMW</brand>
+		<name>BMW Sports</name>
+		<price>7000</price>
+		<color>black</color>
+	</car>
+	<car>
+		<brand>캐딜락</brand>
+		<name>에스컬레이드</name>
+		<price>10000</price>
+		<color>white</color>
+	</car>
+	<car>
+		<brand>람보르기니</brand>
+		<name>무르시엘라고</name>
+		<price>12000</price>
+		<color>yellow</color>
+	</car>
+
+</cars>
